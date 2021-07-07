@@ -63,6 +63,9 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 <div align="center">
 <h3><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Christian Cozma -- Lombard, Illinois <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+<!-- <div align="center">
+   <h3> Be sure to check out my <a href="https://drive.google.com/file/d/1GNwPigJfK1MZSg56J2Uj-x-n3CVcS-91/view?usp=sharing">resume</a>! </h3>
+</div> -->
 
   <br />
 
