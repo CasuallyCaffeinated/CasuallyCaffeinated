@@ -109,7 +109,7 @@ https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original
 https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 -->
 
-### Find me in:
+### Find me on:
 <!-- <a href="mywebsite.dev">
   <img align="left" alt="Nurs's website" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
 </a> -->
