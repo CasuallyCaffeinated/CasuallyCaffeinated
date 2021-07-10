@@ -82,6 +82,9 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
    </a>
 </p>
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-Cozma&layout=compact&theme=onedark" /> </p>
+
 <!-- <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasanov&theme=radical&layout=compact&hide=c,roff,scss,objective-c,makefile"/>
