@@ -71,7 +71,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 
 <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Christian-Cozma&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Christian-Cozma&&show_icons=true&theme=onedark"/>
    </a>
 </p>
 <br />
@@ -126,6 +126,10 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 <a href="https://twitter.com/cozma_christian">
  <img align="left" alt="Christian's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Christian-Cozma" alt="Christian Cozma's Github Profile Views">
+</p>
+
 <!-- <a mailto="nursultan.asanov@pm.me">
   <img align="left" alt="Christian's mail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style=" color:'white' "/> -->
 <!-- </a> -->
