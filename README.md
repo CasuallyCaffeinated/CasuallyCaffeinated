@@ -123,9 +123,9 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 <a href="https://www.linkedin.com/in/christian-cozma-profile/">
   <img align="left" alt="Christian's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Christian-Cozma">
+<!-- <a href="https://github.com/Christian-Cozma">
   <img align="left" alt="Christian's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a> -->
 <a href="https://twitter.com/cozma_christian">
  <img align="left" alt="Christian's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
