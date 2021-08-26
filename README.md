@@ -121,7 +121,7 @@ https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
   <img align="left" alt="Nurs's website" src="https://img.icons8.com/color/30/000000/globe.png" style=" color:'white' "/>
 </a> -->
 <a href="https://www.linkedin.com/in/christian-cozma-profile/">
-  <img align="left" alt="Christian's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Christian's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <!-- <a href="https://github.com/Christian-Cozma">
   <img align="left" alt="Christian's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
