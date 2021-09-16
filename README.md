@@ -76,11 +76,11 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 </p>
 <br />
 
-<!--  <p align="center" >
+ <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-Cozma&theme=dark"/>
    </a>
-</p> -->
+</p>
 
 <p align="center">
     <img align="center" src="https://christian-github-readme-stats.vercel.app/api/top-langs/?username=Christian-Cozma&layout=compact&theme=onedark" /> </p>
