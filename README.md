@@ -72,7 +72,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 
 <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://christian-github-readme-stats.vercel.app/api?username=Christian-Cozma&&show_icons=true&theme=onedark"/>
+    <img  src="https://christian-github-readme-stats.vercel.app/api?username=CasuallyCaffeinated&&show_icons=true&theme=onedark"/>
    </a>
 </p>
 <br />
@@ -84,7 +84,7 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
 </p> -->
 
 <p align="center">
-    <img align="center" src="https://christian-github-readme-stats.vercel.app/api/top-langs/?username=Christian-Cozma&layout=compact&theme=onedark" /> </p>
+    <img align="center" src="https://christian-github-readme-stats.vercel.app/api/top-langs/?username=CasuallyCaffeinated&layout=compact&theme=onedark" /> </p>
 
 <!-- <p align="center" >
    <a href="https://github.com/anuraghazra/github-readme-stats"> 
