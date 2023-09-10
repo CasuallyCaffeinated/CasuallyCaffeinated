@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <div align="center">
    <h1 >Hi there, I'm Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h1>
    <h3 >  Salut, sunt Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h3>
-  <h3 >  こんにちは、「クリス」と言います！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h3>
 </div>
 <hr />
 
