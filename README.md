@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-   <h1 >Hi there, I'm Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h1>
-   <h3 >  Salut, sunt Christian! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h3>
+   <h1 >Hi there, I'm Christian! Welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> </h1>
+   <h3 >  Salut, sunt Christian! Bine ați venit la profilul meu de Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h3>
+   <h3 >  Hola, soy Christian! Bienvenidos a mi perfil de Github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h3>
 </div>
 <hr />
 
