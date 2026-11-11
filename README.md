@@ -21,23 +21,6 @@ Here are some ideas to get you started:
 </div>
 <hr />
 
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40">
-   <img src="https://icongr.am/devicon/express-original.svg?size=100&color=ffffff" alt="express" style="background-color:white;" width="65" height="45">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
-  
-</p>
-
 <!--
 ## About me.
  I am a software developer [my website](https://google.com).
@@ -54,15 +37,6 @@ Full Stack Software Engineer, JavaScript, React, Redux, Express, Node, SQL, HTML
 -->
 
 
-
-
-<!--https://media2.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif 
-https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
--->
-
-<div align="center">
-<h3><img src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  height="20"> Christian Cozma -- Illinois <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
 <!-- <div align="center">
    <h3> Be sure to check out my <a href="https://drive.google.com/file/d/1GNwPigJfK1MZSg56J2Uj-x-n3CVcS-91/view?usp=sharing">resume</a>! </h3>
 </div> -->
